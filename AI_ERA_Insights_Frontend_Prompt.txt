@@ -1,0 +1,342 @@
+You are a senior frontend engineer, senior SEO strategist, senior UI/UX designer, and senior web performance expert.
+
+Your task is to build a COMPLETE FRONTEND-ONLY AI MEDIA WEBSITE called “AI ERA Insights”.
+
+IMPORTANT:
+- DO NOT create backend.
+- DO NOT create database.
+- DO NOT create authentication.
+- DO NOT create APIs.
+- DO NOT create server-side AI systems.
+- ONLY build a highly optimized frontend website.
+- Website must be deployable directly on Vercel.
+- Website must be fully Google AdSense ready.
+- Website must look like a real premium tech company website.
+
+==================================================
+MAIN GOAL
+==================================================
+
+Build a futuristic AI-focused content platform about:
+
+- AI trends in 2026
+- Advantages of AI
+- Disadvantages of AI
+- AI in healthcare
+- AI in education
+- AI in cybersecurity
+- AI in business
+- AI tools
+- AI future predictions
+- AI jobs
+- AI automation
+- AGI
+- AI risks
+- AI news
+
+The website should:
+- look extremely premium
+- increase session duration
+- maximize user engagement
+- be SEO optimized
+- rank on Google
+- support AdSense approval
+- feel like a real AI media company website
+
+==================================================
+TECH STACK
+==================================================
+
+Use ONLY:
+
+- Next.js 15 App Router
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- ShadCN UI
+- MDX for articles
+
+Deploy target:
+- Vercel
+
+==================================================
+DESIGN REQUIREMENTS
+==================================================
+
+Design quality must be similar to:
+- OpenAI
+- Vercel
+- Stripe
+- Apple
+- Linear
+
+Use:
+- dark futuristic theme
+- glassmorphism
+- smooth animations
+- gradients
+- premium cards
+- beautiful typography
+- animated sections
+- hover effects
+- subtle motion
+- responsive layouts
+
+Typography:
+- Inter
+- Space Grotesk
+
+Colors:
+- dark navy
+- electric blue
+- purple
+- cyan accents
+
+The UI must:
+- keep users reading longer
+- feel modern and professional
+- work perfectly on mobile and desktop
+- load very fast
+
+==================================================
+PAGES REQUIRED
+==================================================
+
+Build these pages:
+
+- Home
+- About
+- Contact
+- Privacy Policy
+- Terms & Conditions
+- Disclaimer
+- Cookie Policy
+- AI Trends
+- AI News
+- AI Future
+- AI Tools
+- Categories
+- Dynamic Article Pages
+
+==================================================
+HOMEPAGE STRUCTURE
+==================================================
+
+Create a high-converting homepage with:
+
+1. Premium Navbar
+2. Hero Section
+3. Trending AI Topics
+4. Featured Articles
+5. AI Categories
+6. AI Future Timeline
+7. Advantages of AI
+8. Risks of AI
+9. AI Tools Showcase
+10. AI Career Section
+11. Newsletter CTA
+12. FAQ Section
+13. Footer
+
+Hero content:
+
+Headline:
+“The Future of AI Starts Here”
+
+Subheadline:
+“Explore AI trends, opportunities, risks, tools, and future technologies shaping humanity from 2026 and beyond.”
+
+Buttons:
+- Explore AI Trends
+- Read Latest Articles
+
+==================================================
+ARTICLE SYSTEM
+==================================================
+
+Build a professional frontend article system.
+
+Requirements:
+- MDX support
+- Beautiful typography
+- Reading progress bar
+- Table of contents
+- Related articles section
+- Share buttons
+- Sticky sidebar
+- Responsive layout
+- SEO metadata
+- FAQ section
+- Breadcrumbs
+- Estimated reading time
+
+==================================================
+SEO REQUIREMENTS
+==================================================
+
+Implement ADVANCED FRONTEND SEO.
+
+Must include:
+- semantic HTML
+- metadata generation
+- OpenGraph tags
+- Twitter cards
+- sitemap.xml
+- robots.txt
+- canonical URLs
+- schema markup
+- FAQ schema
+- article schema
+- breadcrumb schema
+- optimized headings
+- keyword-rich structure
+- internal linking
+- optimized images
+- lazy loading
+- mobile-first design
+
+Target:
+- Lighthouse score 90+
+- Excellent Core Web Vitals
+
+==================================================
+CONTENT REQUIREMENTS
+==================================================
+
+Generate high-quality SEO articles.
+
+Content must:
+- be easy to read
+- be highly engaging
+- use semantic SEO
+- contain long-tail keywords
+- target low competition keywords
+- answer real user questions
+- use short paragraphs
+- contain FAQs
+- include tables and comparisons
+- feel trustworthy
+- maximize retention
+
+Topics:
+- AI future
+- AI jobs
+- AI in healthcare
+- AI in education
+- AI risks
+- AI business automation
+- AGI
+- AI coding tools
+- AI trends 2026
+- AI replacing jobs
+
+Generate multiple realistic article pages with rich content.
+
+==================================================
+ADSENSE REQUIREMENTS
+==================================================
+
+The website MUST be optimized for Google AdSense approval.
+
+Requirements:
+- clean design
+- original content
+- fast loading
+- mobile responsive
+- proper navigation
+- legal pages
+- enough content structure
+- no spammy design
+- no broken links
+
+Add clean AdSense placeholder sections:
+- below hero
+- article middle
+- sidebar
+- footer
+
+Do NOT overload ads.
+
+==================================================
+PERFORMANCE REQUIREMENTS
+==================================================
+
+Optimize heavily for performance.
+
+Use:
+- next/image
+- lazy loading
+- code splitting
+- optimized fonts
+- optimized animations
+- clean reusable components
+
+==================================================
+FOLDER STRUCTURE
+==================================================
+
+Create professional scalable architecture.
+
+Include:
+- app/
+- components/
+- lib/
+- hooks/
+- styles/
+- content/
+- public/
+- utils/
+- types/
+
+==================================================
+CONTENT STRATEGY
+==================================================
+
+Create:
+- topical authority structure
+- internal linking
+- category clustering
+- SEO-friendly URLs
+- skimmable content structure
+
+==================================================
+IMPORTANT RULES
+==================================================
+
+- NO backend
+- NO database
+- NO authentication
+- NO fake unfinished UI
+- NO low-quality sections
+- NO generic blog styling
+- Build like a funded startup frontend
+- Everything must be responsive
+- Everything must be production-ready
+- Everything must work perfectly
+- Use reusable clean code
+- Follow professional frontend architecture
+
+==================================================
+FINAL OUTPUT
+==================================================
+
+Generate:
+- complete frontend codebase
+- reusable components
+- production-level UI
+- realistic content
+- SEO setup
+- Vercel-ready deployment
+- README.md
+- .env.example if needed
+- deployment instructions
+
+The final website should:
+- look world-class
+- be SEO optimized
+- be Google AdSense ready
+- maximize engagement
+- rank well on Google
+- feel like a premium AI media platform
+
+Now start building the complete frontend project with production-grade quality.
