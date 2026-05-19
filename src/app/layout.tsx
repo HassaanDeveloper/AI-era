@@ -1,6 +1,7 @@
 import type { Metadata } from "next"
 import { Inter, Space_Grotesk } from "next/font/google"
 import dynamic from "next/dynamic"
+import { Analytics } from "@vercel/analytics/next"
 import Navbar from "@/components/layout/Navbar"
 import Footer from "@/components/layout/Footer"
 import "./globals.css"
@@ -83,6 +84,7 @@ export default function RootLayout({
         <Footer />
         <NetworkStatus />
         <ScrollToTop />
+        <Analytics />
       </body>
     </html>
   )
