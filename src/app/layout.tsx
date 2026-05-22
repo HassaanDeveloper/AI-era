@@ -4,6 +4,7 @@ import dynamic from "next/dynamic"
 import Navbar from "@/components/layout/Navbar"
 import Footer from "@/components/layout/Footer"
 import { Analytics } from "@vercel/analytics/react"
+import GoogleAnalytics from "@/components/GoogleAnalytics"
 import "./globals.css"
 
 const NetworkStatus = dynamic(() => import("@/components/NetworkStatus"))
@@ -85,6 +86,7 @@ export default function RootLayout({
         <NetworkStatus />
         <ScrollToTop />
         <Analytics />
+        <GoogleAnalytics />
       </body>
     </html>
   )

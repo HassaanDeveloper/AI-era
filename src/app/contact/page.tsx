@@ -87,7 +87,6 @@ export default function ContactPage() {
 
             <div className="space-y-4">
               {[
-                { icon: Mail, title: "Email", detail: "hello@aierainsights.com" },
                 { icon: MessageSquare, title: "Social", detail: "@aierainsights" },
                 { icon: MapPin, title: "Location", detail: "San Francisco, CA" },
               ].map((item) => (
